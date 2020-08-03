@@ -122,3 +122,4 @@ things that still need to happen:
 
 _To be written&hellip;_
 
+[![Run on Repl.it](https://repl.it/badge/github/chrisbouchard/klondike-rs)](https://repl.it/github/chrisbouchard/klondike-rs)
